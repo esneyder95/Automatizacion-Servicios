@@ -1,0 +1,35 @@
+{
+  "idOpcion": 0,
+  "esApp": false,
+  "restriccionCli": {
+    "lstClientesRestriccion": [
+      {
+        "idTipoCliente": 1,
+        "nombre": "{{nombreRemitente}}",
+        "idTipoDocumneto": 1,
+        "documento": "{{idRemitente}}",
+        "telefono": "{{telefonoRemitente}}",
+        "direccion": "{{direccionRemitente}}",
+        "correo": "{{correoRemitente}}"
+      },
+      {
+        "idTipoCliente": 2,
+        "nombre": "{{nombreDestinatario}}",
+        "idTipoDocumneto": 1,
+        "documento": "{{idDestinatario}}",
+        "telefono": "{{telefonoDestinatario}}",
+        "direccion": "{{direccionDestinatario}}",
+        "correo": "{{correoDestinatario}}"
+      }
+    ],
+    "restrictiva": {
+      "idTipoRestriccion": 3,
+      "fechaRestriccion": "2024-02-09T23:42:20.167Z",
+      "idGuia": "{{numeroGuia}}",
+      "idEstado": 1,
+      "valor": "{{valorTotal}}",
+      "idEstadoPago": 1,
+      "fechaPago": "2024-02-09T23:42:20.167Z"
+    }
+  }
+}

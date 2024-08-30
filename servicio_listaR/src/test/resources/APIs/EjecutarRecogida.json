@@ -1,0 +1,25 @@
+{
+  "idPreFactura": "{{id_prefactura}}",
+"idSistema": 0,
+"recogida": {
+"DocPersonaResponsable": "9534747",
+"IdAplicacion": 9,
+"IdCiudad": "11001000",
+"IdMotivo": 0,
+"IdSolicitudRecogida": "{{id_recogida}}",
+"Latitud": "4.7217375",
+"LocalidadCambio": "11001000",
+"Longitud": "-74.1325519",
+"Mensajero": {
+"idMensajer": "12599"
+},
+"NumeroPiezas": 0,
+"PlacaVehiculo": "",
+"TieneCodigoQR": false,
+"TipoRecogida": 2,
+"ValorPropina": 0,
+"ValorRecogida": 0,
+"ValorTotalRecogida": 803
+},
+"tipoNovedad": 0
+}

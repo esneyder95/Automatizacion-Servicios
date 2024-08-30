@@ -1,0 +1,5 @@
+CrerAdmision: https://apitesting.interrapidisimo.co/ftMantenimiento/apiPreEnviosPruebas/api/Admision/CrearAdmisionRecogida
+EjecutarRecogida: https://apitesting.interrapidisimo.co/ftMantenimiento/apiControllerPruebas/api/Recogidas/EjecutarRecogida
+ObtenerToken: https://f3hud8izmu.us-east-1.awsapprunner.com/api/Seguridad/ObtenerToken
+ObtenerInfoGuias: https://f3hud8izmu.us-east-1.awsapprunner.com/api/ListaRestrictiva/ObtenerInfoGuiasPorListaGuias
+InsertarListaRestricitiva: https://f3hud8izmu.us-east-1.awsapprunner.com/api/ListaRestrictiva/InsertarClienteListaRestrictiva
